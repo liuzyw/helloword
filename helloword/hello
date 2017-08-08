@@ -1,12 +1,4 @@
-dasdasdasddadsadsddasdsaa
-dsada
-sdad
-dsadasd
-dasda
-dsadsa
-dasdas
-asdad
-dasd
 test username
 add .ssh/config
 git_rsa
+ssh-add -D
