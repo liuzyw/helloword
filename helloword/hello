@@ -2,3 +2,4 @@ test username
 add .ssh/config
 git_rsa
 ssh-add -D
+color
